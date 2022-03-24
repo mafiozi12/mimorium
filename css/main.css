@@ -1,0 +1,31 @@
+h1 {color: red;}
+p.al {
+	border: 0px;
+	background: blue;
+	width: 100px;
+	color: white;
+}
+span {color: red;}
+h2.pop {
+	box-sizing: border-box;
+	padding-left: 3px;
+	border: 0px;
+	color: white;
+	background: green;
+}
+li {border: 1px solid black;
+	color: black;
+	background: white;
+}
+h2.op {
+	border: 0px;
+	background: green;
+	color: white;
+	height: 100px;
+	padding-left: 40px; box-sizing:border-box;
+	padding-top: 35px;
+}
+p.non {
+	padding-left: 100px;
+	box-sizing: border-box;
+}
